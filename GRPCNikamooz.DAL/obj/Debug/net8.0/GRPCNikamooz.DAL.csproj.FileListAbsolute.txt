@@ -1,0 +1,17 @@
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\bin\Debug\net8.0\GRPCNikamooz.DAL.deps.json
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\bin\Debug\net8.0\GRPCNikamooz.DAL.runtimeconfig.json
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\bin\Debug\net8.0\GRPCNikamooz.DAL.dll
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\bin\Debug\net8.0\GRPCNikamooz.DAL.pdb
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\bin\Debug\net8.0\GRPCNikamooz.Domain.dll
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\bin\Debug\net8.0\GRPCNikamooz.Domain.pdb
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\obj\Debug\net8.0\GRPCNikamooz.DAL.csproj.AssemblyReference.cache
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\obj\Debug\net8.0\GRPCNikamooz.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\obj\Debug\net8.0\GRPCNikamooz.DAL.AssemblyInfoInputs.cache
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\obj\Debug\net8.0\GRPCNikamooz.DAL.AssemblyInfo.cs
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\obj\Debug\net8.0\GRPCNikamooz.DAL.csproj.CoreCompileInputs.cache
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\obj\Debug\net8.0\GRPCNika.E569EFFF.Up2Date
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\obj\Debug\net8.0\GRPCNikamooz.DAL.dll
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\obj\Debug\net8.0\refint\GRPCNikamooz.DAL.dll
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\obj\Debug\net8.0\GRPCNikamooz.DAL.pdb
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\obj\Debug\net8.0\GRPCNikamooz.DAL.genruntimeconfig.cache
+E:\Secret\GRPCNikamooz\GRPCNikamooz.DAL\obj\Debug\net8.0\ref\GRPCNikamooz.DAL.dll

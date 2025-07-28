@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Secret\\GRPCNikamooz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.grpc\\grpcnikamooz.grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|solutionrelative:grpcnikamooz.grpc\\grpcnikamooz.grpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.grpc\\protos\\v1\\student.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|solutionrelative:grpcnikamooz.grpc\\protos\\v1\\student.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B81E4E-C053-409A-9DDE-116D04E0CE2D}|GRPCNikamooz.DAL\\GRPCNikamooz.DAL.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.dal\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B81E4E-C053-409A-9DDE-116D04E0CE2D}|GRPCNikamooz.DAL\\GRPCNikamooz.DAL.csproj|solutionrelative:grpcnikamooz.dal\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B81E4E-C053-409A-9DDE-116D04E0CE2D}|GRPCNikamooz.DAL\\GRPCNikamooz.DAL.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.dal\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B81E4E-C053-409A-9DDE-116D04E0CE2D}|GRPCNikamooz.DAL\\GRPCNikamooz.DAL.csproj|solutionrelative:grpcnikamooz.dal\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|solutionrelative:grpcnikamooz.grpc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.grpc\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|solutionrelative:grpcnikamooz.grpc\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4925B8-5C26-4510-AFCE-53C605C4319C}|GRPCNikamooz.BLL\\GRPCNikamooz.BLL.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4925B8-5C26-4510-AFCE-53C605C4319C}|GRPCNikamooz.BLL\\GRPCNikamooz.BLL.csproj|solutionrelative:grpcnikamooz.bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B81E4E-C053-409A-9DDE-116D04E0CE2D}|GRPCNikamooz.DAL\\GRPCNikamooz.DAL.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.dal\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B81E4E-C053-409A-9DDE-116D04E0CE2D}|GRPCNikamooz.DAL\\GRPCNikamooz.DAL.csproj|solutionrelative:grpcnikamooz.dal\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.grpc\\interceptors\\exceptioninterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|solutionrelative:grpcnikamooz.grpc\\interceptors\\exceptioninterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.grpc\\infrastructures\\protofileprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|solutionrelative:grpcnikamooz.grpc\\infrastructures\\protofileprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B81E4E-C053-409A-9DDE-116D04E0CE2D}|GRPCNikamooz.DAL\\GRPCNikamooz.DAL.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.dal\\mapper\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B81E4E-C053-409A-9DDE-116D04E0CE2D}|GRPCNikamooz.DAL\\GRPCNikamooz.DAL.csproj|solutionrelative:grpcnikamooz.dal\\mapper\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2DAEBBF-E155-4466-8276-5F3BE01669BA}|GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj|solutionrelative:grpcnikamooz.grpc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BCB8DE-BBFB-4B31-A001-9ECE48EA25A7}|GRPCNikamooz.Domain\\GRPCNikamooz.Domain.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.domain\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BCB8DE-BBFB-4B31-A001-9ECE48EA25A7}|GRPCNikamooz.Domain\\GRPCNikamooz.Domain.csproj|solutionrelative:grpcnikamooz.domain\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BCB8DE-BBFB-4B31-A001-9ECE48EA25A7}|GRPCNikamooz.Domain\\GRPCNikamooz.Domain.csproj|e:\\secret\\grpcnikamooz\\grpcnikamooz.domain\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BCB8DE-BBFB-4B31-A001-9ECE48EA25A7}|GRPCNikamooz.Domain\\GRPCNikamooz.Domain.csproj|solutionrelative:grpcnikamooz.domain\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GRPCNikamooz.Grpc",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj",
+              "RelativeDocumentMoniker": "GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj",
+              "RelativeToolTip": "GRPCNikamooz.Grpc\\GRPCNikamooz.Grpc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T09:22:06.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.proto",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\Protos\\v1\\Student.proto",
+              "RelativeDocumentMoniker": "GRPCNikamooz.Grpc\\Protos\\v1\\Student.proto",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\Protos\\v1\\Student.proto",
+              "RelativeToolTip": "GRPCNikamooz.Grpc\\Protos\\v1\\Student.proto",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-07-28T05:48:32.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProtoFileProvider.cs",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\Infrastructures\\ProtoFileProvider.cs",
+              "RelativeDocumentMoniker": "GRPCNikamooz.Grpc\\Infrastructures\\ProtoFileProvider.cs",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\Infrastructures\\ProtoFileProvider.cs",
+              "RelativeToolTip": "GRPCNikamooz.Grpc\\Infrastructures\\ProtoFileProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:22:56.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentMapper.cs",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.DAL\\Mapper\\StudentMapper.cs",
+              "RelativeDocumentMoniker": "GRPCNikamooz.DAL\\Mapper\\StudentMapper.cs",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.DAL\\Mapper\\StudentMapper.cs",
+              "RelativeToolTip": "GRPCNikamooz.DAL\\Mapper\\StudentMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:32:02.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.DAL\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "GRPCNikamooz.DAL\\Repositories\\StudentRepository.cs",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.DAL\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "GRPCNikamooz.DAL\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:47:31.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\Program.cs",
+              "RelativeDocumentMoniker": "GRPCNikamooz.Grpc\\Program.cs",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\Program.cs",
+              "RelativeToolTip": "GRPCNikamooz.Grpc\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:43:16.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.DAL\\StudentContext.cs",
+              "RelativeDocumentMoniker": "GRPCNikamooz.DAL\\StudentContext.cs",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.DAL\\StudentContext.cs",
+              "RelativeToolTip": "GRPCNikamooz.DAL\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:39:16.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\appsettings.json",
+              "RelativeDocumentMoniker": "GRPCNikamooz.Grpc\\appsettings.json",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\appsettings.json",
+              "RelativeToolTip": "GRPCNikamooz.Grpc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T08:34:15.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.DAL\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "GRPCNikamooz.DAL\\Entities\\Student.cs",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.DAL\\Entities\\Student.cs",
+              "RelativeToolTip": "GRPCNikamooz.DAL\\Entities\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T09:24:24.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "GRPCNikamooz.BLL\\Services\\StudentService.cs",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "GRPCNikamooz.BLL\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:24:18.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "GRPCNikamooz.Grpc\\Services\\StudentService.cs",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\Services\\StudentService.cs",
+              "RelativeToolTip": "GRPCNikamooz.Grpc\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:22:00.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExceptionInterceptor.cs",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\Interceptors\\ExceptionInterceptor.cs",
+              "RelativeDocumentMoniker": "GRPCNikamooz.Grpc\\Interceptors\\ExceptionInterceptor.cs",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Grpc\\Interceptors\\ExceptionInterceptor.cs",
+              "RelativeToolTip": "GRPCNikamooz.Grpc\\Interceptors\\ExceptionInterceptor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:35:54.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Domain\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "GRPCNikamooz.Domain\\Services\\IStudentService.cs",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Domain\\Services\\IStudentService.cs",
+              "RelativeToolTip": "GRPCNikamooz.Domain\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:20:45.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Domain\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "GRPCNikamooz.Domain\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "E:\\Secret\\GRPCNikamooz\\GRPCNikamooz.Domain\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "GRPCNikamooz.Domain\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:10:31.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

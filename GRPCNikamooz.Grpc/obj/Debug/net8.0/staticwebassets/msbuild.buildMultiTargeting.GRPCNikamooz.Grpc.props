@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GRPCNikamooz.Grpc.props" />
+</Project>

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SQ6YysgyXJ2sRDhLbl2ENNRDskeVrCtGPokPkST6lqs=",
+  "Source": "GRPCNikamooz.Grpc",
+  "BasePath": "_content/GRPCNikamooz.Grpc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
